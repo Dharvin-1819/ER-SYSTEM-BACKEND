@@ -1,0 +1,18 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE files
+.idea/
+*.iws
+*.iml
+*.ipr
+.settings/
+.classpath
+.project
+.DS_Store
+
+# Local properties with actual secrets
+application-local.properties
+*.log
